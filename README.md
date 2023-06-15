@@ -18,7 +18,7 @@ To use the Leonardo Blender Plugin, you need to install it as an add-on in Blend
 4. Click on the **Install** button at the top of the window.
 5. In the file dialog that appears, navigate to the location where you have saved the plugin code, select the relevant Python script file, and click on **Install Add-on**.
 6. Once the add-on is installed, you should see it appear in the Add-ons list in the Preferences window. Make sure it is enabled by checking the box next to its name.
-7. Enter your API key in the preference window. You can obtain your API key from the Leonardo website in your user account.
+7. Enter your API key in the preference window. You can obtain your API key from the Leonardo website in your user account. **Note**: You need a paid account to be eligible for an API key!
 
 ![Enter API Key](docs/assets/api_key.png)
 
@@ -33,7 +33,7 @@ Once you have installed the Leonardo Blender Plugin, follow these instructions t
 
 ![Mesh Upload](docs/assets/upload_mesh.png)
 
-2. To preview the texture from one side of the model, explore the options in the **Preview** section.
+2. To preview the texture from one side of the model, explore the options in the **Preview** section. This will only generate a texture from one direction (that you can choose), which will be faster and cost less tokens so you can experiment with your prompt.
 
 ![Preview Section](docs/assets/preview_section.png)
 
