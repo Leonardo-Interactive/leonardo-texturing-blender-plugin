@@ -1,5 +1,5 @@
 ![Leonardo Blender Plugin, subtitle: Texture your meshes right inside Blender](docs/assets/LeonardoBanner.png)
-[![Latest Release](https://flat.badgen.net/github/release/LeonardoInteractive/leonardo-texturing-blender-plugin)](https://github.com/LeonardoInteractive/leonardo-texturing-blender-plugin/releases/latest) [![Join the Discord](https://flat.badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/leonardo-ai)
+[![Latest Release](https://flat.badgen.net/github/release/Leonardo-Interactive/leonardo-texturing-blender-plugin)](https://github.com/LeonardoInteractive/leonardo-texturing-blender-plugin/releases/latest) [![Join the Discord](https://flat.badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/leonardo-ai)
 
 
 # Leonardo Blender Addon
