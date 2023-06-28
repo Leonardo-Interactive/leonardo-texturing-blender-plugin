@@ -12,7 +12,7 @@ The Leonardo Blender Plugin allows you to texture any existing 3D model right fr
 
 To use the Leonardo Blender Plugin, you need to install it as an add-on in Blender. Follow these steps:
 
-1. Download the [latest release](https://github.com/LeonardoInteractive/leonardo-texturing-blender-plugin/releases/latest)
+1. Download the [latest release](https://github.com/Leonardo-Interactive/leonardo-texturing-blender-plugin/releases/latest)
 2. Open Blender and go to **Edit > Preferences**.
 3. In the Preferences window, click on the **Add-ons** tab.
 4. Click on the **Install** button at the top of the window.
